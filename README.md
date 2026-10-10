@@ -38,5 +38,9 @@ Evaluated across 50 field trials, the proposed embodied framework achieves:
 - **Hardware:** Intel RealSense D435i, xArm6, MR1000 mobile base
 
 *(Detailed setup instructions will be added soon.)*
+## 🎥 Demo Video
 
+[![Bilibili](https://img.shields.io/badge/Video-Bilibili-00A1D6?logo=bilibili&logoColor=white)](https://www.bilibili.com/video/BV1VYpG6UEaU/)
+
+Watch the full demonstration of the embodied perception-action closed-loop for autonomous grape harvesting.
 
