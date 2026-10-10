@@ -39,14 +39,4 @@ Evaluated across 50 field trials, the proposed embodied framework achieves:
 
 *(Detailed setup instructions will be added soon.)*
 
-## 📝 Citation
 
-If you find this work useful, please cite:
-
-```bibtex
-@article{liu2026embodied,
-  title={Embodied Perception-Action Closed-Loop for Autonomous Grape Harvesting: Visual Servoing and Mobile Manipulation},
-  author={Liu, Wencong and Zhu, Zhijie and Wang, Xinman and Zhang, Youshan},
-  journal={Under Review},
-  year={2026}
-}
